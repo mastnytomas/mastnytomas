@@ -1,52 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">NoHnus</h1>
 
 <p align="center">
-  <i>I build web apps that make life simpler.</i>
+  I write code and invent projects, and occasionally finish one.
 </p>
 
----
+<br>
 
-### About Me
+**[PingST](https://pingst.cz)**
+Table tennis statistics. Results, tables, and numbers to brag about (or to quietly keep to yourself).
 
-- Frontend-focused developer
-- TypeScript, React / Vue
+**[TJ Sokol Studená](https://tjsokolstudena.cz)**
+Website of the TJ Sokol Studená table tennis club.
 
----
+**Unfinished projects**
+The list is, sadly, too long to fit here.
 
-### Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,vite" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
-</p>
-
----
-
-### Personal Projects
-
-• **Football Lineup Quizzer** – Football lineup quiz app  
-• **PingST** – Czech table tennis statistics (players, teams, clubs)  
-• **TJ Sokol Stundená Website** – Sport club website with articles, galleries and results  
-• **Scoreboard** – Live-updating match scores for multiple tables (streaming friendly)
-
----
-
-<p align="center">
-  <a href="https://github.com/mastnytomas">
-    <img src="https://img.shields.io/badge/GitHub-mastnytomas-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br>
